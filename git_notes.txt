@@ -1,0 +1,1 @@
+I learned a ton of stuff on git. So much in fact I couldnt type it all down. However you should always write down good explainations of what you did when committing to git. Got behind but now im back.
