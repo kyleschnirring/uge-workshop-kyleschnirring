@@ -1,7 +1,9 @@
+omg i did this Code fellows
+myname is kyle
 man less
 pwd
 history | less
-history 
+history
 ls .
 ls ~
 ls /Applications/
@@ -43,9 +45,9 @@ git -version
 git fetch origin
 git request-pull start url https://github.com/kyleschnirring/unix-and-git-workshop#2-clone-the-fork-to-your-computer
 git request-pull start  https://github.com/kyleschnirring/unix-and-git-workshop#2-clone-the-fork-to-your-computer
-git request-pull start 
-git request-pull start url 
-git request-pull 
+git request-pull start
+git request-pull start url
+git request-pull
 git push origin master
 git commit
 git commit git_notes.txt
@@ -61,7 +63,7 @@ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/s
 mkdir kyleschnirring
 git checkout -b notes
  git branch -d notes
-cd /Users/NoticeDev/Desktop/unix-and-git-workshop 
+cd /Users/NoticeDev/Desktop/unix-and-git-workshop
 git clone https://github.com/kyleschnirring/unix-and-git-workshop#2-clone-the-fork-to-your-computer
 git config --global user.email "kyleschnirring@icloud.com"
 git config --global user.name "kyleschnirring@icloud.com"
@@ -69,14 +71,14 @@ sudo subl --help
 subl --help
 sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"
-node /Users/NoticeDev/Desktop/shortyWebsite/shortyTest.js 
+node /Users/NoticeDev/Desktop/shortyWebsite/shortyTest.js
 mongod
 softwareupdate --install --all
 mongo
 sudo npm install mongoose
 npm install mongodb
 npm init
-cd /Users/NoticeDev/Desktop/shortyWebsite 
+cd /Users/NoticeDev/Desktop/shortyWebsite
 sudo chmod 777 /data/db
 sudo mkdir -p /data/db
 mkdir -p /data/db
