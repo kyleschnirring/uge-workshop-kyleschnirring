@@ -1,0 +1,88 @@
+man less
+pwd
+history | less
+history 
+ls .
+ls ~
+ls /Applications/
+cd
+ls
+cd /users/NoticeDev/
+..
+cd ..
+ls -l
+cd Documents/
+cd Do
+man ls
+man t
+man
+ls -rtl
+ls -r
+ls -lt
+ls -t
+cd /
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+echo $PATH
+subl /etc/paths
+subl -w
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+subl
+git --version
+git -version
+git fetch origin
+git request-pull start url https://github.com/kyleschnirring/unix-and-git-workshop#2-clone-the-fork-to-your-computer
+git request-pull start  https://github.com/kyleschnirring/unix-and-git-workshop#2-clone-the-fork-to-your-computer
+git request-pull start 
+git request-pull start url 
+git request-pull 
+git push origin master
+git commit
+git commit git_notes.txt
+git add unix_notes.txt
+git add git_notes.txt
+git add
+echo "I've learned you can use the git branch -d to delete a branch and git checkout -b to get one.">git_notes.txt
+echo >git_notes.txt
+echo "I've learned quite a bit about the power of git and the terminal for example you can use echo to write to a file."> unix_notes.txt
+echo > unix_notes.txt
+subl -h
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+mkdir kyleschnirring
+git checkout -b notes
+ git branch -d notes
+cd /Users/NoticeDev/Desktop/unix-and-git-workshop 
+git clone https://github.com/kyleschnirring/unix-and-git-workshop#2-clone-the-fork-to-your-computer
+git config --global user.email "kyleschnirring@icloud.com"
+git config --global user.name "kyleschnirring@icloud.com"
+sudo subl --help
+subl --help
+sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"
+node /Users/NoticeDev/Desktop/shortyWebsite/shortyTest.js 
+mongod
+softwareupdate --install --all
+mongo
+sudo npm install mongoose
+npm install mongodb
+npm init
+cd /Users/NoticeDev/Desktop/shortyWebsite 
+sudo chmod 777 /data/db
+sudo mkdir -p /data/db
+mkdir -p /data/db
+mongodb
+brew install mongodb --with-openssl
+brew install mongodb
+node -v
+brew help
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
